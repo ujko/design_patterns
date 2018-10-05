@@ -1,4 +1,4 @@
-package zadanie3;
+package zadania.zadanie3;
 
 public interface Calculator {
     int add(int a, int b);

@@ -1,4 +1,4 @@
-package zadanie2;
+package zadania.zadanie2;
 
 public class Circle implements IShape {
     private int a;

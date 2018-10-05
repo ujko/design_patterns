@@ -1,4 +1,4 @@
-package zadanie1;
+package zadania.zadanie1;
 
 public class ToyFactory {
 

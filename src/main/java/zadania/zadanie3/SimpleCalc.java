@@ -1,4 +1,4 @@
-package zadanie3;
+package zadania.zadanie3;
 
 public class SimpleCalc implements Calculator {
     @Override

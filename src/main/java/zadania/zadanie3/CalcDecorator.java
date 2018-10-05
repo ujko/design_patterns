@@ -1,4 +1,4 @@
-package zadanie3;
+package zadania.zadanie3;
 
 public class CalcDecorator extends SimpleCalc {
     private Calculator calculator;

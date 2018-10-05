@@ -1,4 +1,4 @@
-package zadanie2;
+package zadania.zadanie2;
 
 public class Square implements IShape{
     private int a;
