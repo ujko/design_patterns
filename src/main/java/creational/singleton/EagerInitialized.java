@@ -9,5 +9,4 @@ public class EagerInitialized {
     public static EagerInitialized getInstance() {
         return INSTANCE;
     }
-
 }
